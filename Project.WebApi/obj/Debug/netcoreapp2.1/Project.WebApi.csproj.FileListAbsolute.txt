@@ -1,0 +1,14 @@
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\bin\Debug\netcoreapp2.1\Project.WebApi.deps.json
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\bin\Debug\netcoreapp2.1\Project.WebApi.runtimeconfig.json
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\bin\Debug\netcoreapp2.1\Project.WebApi.runtimeconfig.dev.json
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\bin\Debug\netcoreapp2.1\Project.WebApi.dll
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\bin\Debug\netcoreapp2.1\Project.WebApi.pdb
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\obj\Debug\netcoreapp2.1\Project.WebApi.csprojAssemblyReference.cache
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\obj\Debug\netcoreapp2.1\Project.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\obj\Debug\netcoreapp2.1\Project.WebApi.RazorAssemblyInfo.cache
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\obj\Debug\netcoreapp2.1\Project.WebApi.RazorAssemblyInfo.cs
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\obj\Debug\netcoreapp2.1\Project.WebApi.AssemblyInfoInputs.cache
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\obj\Debug\netcoreapp2.1\Project.WebApi.AssemblyInfo.cs
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\obj\Debug\netcoreapp2.1\Project.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\obj\Debug\netcoreapp2.1\Project.WebApi.dll
+C:\Users\Оля\Desktop\газпром\Server\Project.WebApi\obj\Debug\netcoreapp2.1\Project.WebApi.pdb

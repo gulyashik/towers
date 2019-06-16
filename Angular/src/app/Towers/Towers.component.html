@@ -1,0 +1,46 @@
+ <div class = "wraper">
+    <div class = "row">
+    <div class ="tower" *ngFor='let tower of towers'>
+        <div class = "text">
+            Уровень карналита в силосной башне № {{tower.id}}
+        </div>
+        <div class = "percent">
+            <div class = "percent-text">
+                % {{(tower.value*100/(tower.maxValue-tower.minValue)) | number:'1.0-0'}}
+            </div>
+        </div>
+
+        <div class = "percent-line" [ngStyle]="{'background-color': calculatePercent(tower)>100 ? 'red' : '#21b149'}"></div>
+        <div class ="small-line"> </div>
+        <div class = "line"></div>
+        <div class="tower-body">
+            <div class = "rectangle"></div>
+            <div class = "line"></div>
+            <div class = "rectangle"></div>
+            <div class = "line"></div>
+            <div class = "rectangle"></div>
+            <div class = "line"></div>
+            <div class = "rectangle"></div>
+            <div class = "spacer">
+                <div class="level" [ngStyle]="{'height': calculateLevel(tower)+'%'}">
+                   
+                </div>
+            </div>
+        </div>
+        <div class = "line"></div>
+        <div class = "triangle"></div>
+        <div class = "radius-rectangle"></div> 
+        <div class = "weight">
+                <div class = "text">
+                        Масса карналита
+                </div>
+                <div>
+                        <input class = "input" [(ngModel)]="tower.value" placeholder="name"/>
+                    </div>
+            <div class = "percent-line"></div>
+        </div>
+
+       
+    </div>
+</div>
+

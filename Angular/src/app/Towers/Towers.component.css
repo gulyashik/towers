@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    padding:0;
+  }
+.wraper{
+    
+    background-color: #2d2d32;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+
+  }
+.tower{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     
+   }
+.rectangle{
+    background: linear-gradient(to left, #616166 20%, #9B9B9B 80%, #48484F);
+    width:137.3px;
+    height: 91.9px;
+    margin: 2px;
+
+}
+.line{
+    width: 154.6px;
+    height: 4.3px;
+    background: #cbcbcb;
+    z-index: 2;
+    
+}
+.small-line{
+    width: 47.1px;
+    height: 4.3px;
+    background: #8b959f;
+    margin-bottom: 2px;
+}
+.triangle{
+
+    border-top: 91.9px solid #616166;
+	border-left: 60px solid transparent;
+	border-right: 60px solid transparent;
+	height: 0;
+    width:17px;
+    margin:2px;
+    
+}
+.text{
+    text-align: center;
+    width:137.3px;
+    color: #ffffff;
+}
+.percent{
+    margin: 10px 0 10px;
+}
+.weight{
+    margin: -35px 0 10px;
+}
+.percent-line{
+    width: 68px;
+    height: 4.3px;
+    background: #21b149;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.percent-text{
+    font-size: x-large;
+    text-align: center;
+    width:137.3px;
+    color: #ffffff;
+}
+.input{
+    background-color: #2d2d32;
+    margin: 0 auto;
+    font-size: x-large;
+    width: 137.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    border: none;
+}
+.input:focus{
+    outline: none;
+}
+.radius-rectangle{
+    border: 4px solid #21b149;
+    height: 46px;
+    width: 66px;
+    border-radius: 15px;
+    margin-right: 50px;
+    position: relative;
+    bottom: 75px;
+}
+
+.tower-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position:relative;
+    margin: 6px;
+}
+.level{
+    height: 100%;
+    width: 100%;
+    background-color: #21b149;
+    opacity: 0.5;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+.spacer{
+    height: 98%;
+    width: 80%;
+    margin: 4px auto;
+    background: transparent;
+    position: absolute;
+}
