@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Оля\\Desktop\\газпром\\Server\\Project.WebApi\\Project.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Оля\\Desktop\\газпром\\Tower_project\\Project.WebApi\\Project.WebApi.csproj",
       "projectName": "Project.WebApi",
-      "projectPath": "C:\\Users\\Оля\\Desktop\\газпром\\Server\\Project.WebApi\\Project.WebApi.csproj",
+      "projectPath": "C:\\Users\\Оля\\Desktop\\газпром\\Tower_project\\Project.WebApi\\Project.WebApi.csproj",
       "packagesPath": "C:\\Users\\Оля\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Оля\\Desktop\\газпром\\Server\\Project.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Оля\\Desktop\\газпром\\Tower_project\\Project.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

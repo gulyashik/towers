@@ -71,6 +71,9 @@
     text-align: center;
     width:137.3px;
     color: #ffffff;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 .input{
     background-color: #2d2d32;

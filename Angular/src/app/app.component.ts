@@ -3,8 +3,7 @@ import { ApiService } from 'src/app/core/services/api';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  templateUrl: './app.component.html'
 })
 export class AppComponent implements OnInit {
   constructor(private api: ApiService) {};

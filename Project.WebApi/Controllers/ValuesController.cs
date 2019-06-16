@@ -17,10 +17,10 @@ namespace Project.WebApi.Controllers
             return new List<Indicator>{
                 new Indicator {
                     Id = "1",
-                    Title = "Первый",
-                    Value = 90,
+                    Title = "Первый  фв фвыфвыф вфывф вфыыфаыаыфа ываываывавапвпав авпвыавыаываыв аываываываываыва",
+                    Value = 200000,
                     MinValue = 0,
-                    MaxValue = 100
+                    MaxValue = 400000
                 },
                 new Indicator {
                     Id = "2",
@@ -46,7 +46,7 @@ namespace Project.WebApi.Controllers
                 new Indicator {
                     Id = "5",
                     Title = "Пятый",
-                    Value = 600,
+                    Value = 600478,
                     MinValue = 0,
                     MaxValue = 550
                 },
@@ -91,7 +91,7 @@ namespace Project.WebApi.Controllers
         public class Indicator {
             public string Id {get; set;}
             public string Title {get; set;}
-            public int Value {get; set;}
+            public long Value {get; set;}
             public int MinValue {get; set;}
             public int MaxValue {get; set;}
 
